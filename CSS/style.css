@@ -162,6 +162,10 @@ h1 {
     margin-bottom: 6rem;
 }
 
+.projekty-grid a {
+    margin: 1rem;
+}
+
 .projekt-nadpis {
     font-size: 2rem;
     padding: 2rem 0.5rem;
@@ -189,3 +193,24 @@ h1 {
       font-size: 4rem;
     }
   }
+
+  .footer {
+    background: #333;
+    color: #f4f4f4;
+    padding: 5rem;
+    text-align: center;
+  }
+
+  .footer a {
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    font-weight: 200;
+    margin: 1rem;
+  }
+
+  .container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 0 2rem;
+    padding-top: 1rem;
+}
